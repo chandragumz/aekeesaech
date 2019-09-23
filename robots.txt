@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eixosuphu.elixirbridge.org/sitemap.xml
